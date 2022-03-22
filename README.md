@@ -1,2 +1,2 @@
 # webdevelopsolution.github.io
-The website for web design and development.
+This website for web design and development.
